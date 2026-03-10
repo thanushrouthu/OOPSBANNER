@@ -1,6 +1,6 @@
-public class main {
+public class oopsbanner {
     public static void main(String[] args) {
         //UC1
-        System.out.println("h");
+        System.out.println("OOPS");
     }
 }
